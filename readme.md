@@ -1,4 +1,4 @@
-<h2>READMORE</h2>
+<h2>Exercise</h2>
 <p>Quicknotes of exercise:
 <ul>
     <li>Made all the directories</li>
@@ -9,5 +9,6 @@
     <li>Git add and commit</li>
     <li>Had to fix this readmore cause it was all one big text file, so attempting basic HTML to try to format it</li>
     <li>Created GITHUB remote directory and pushed</li>
+    <li>Awaiting for a pull request!</li>
 </ul>
 </p>
